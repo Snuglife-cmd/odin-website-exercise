@@ -1,0 +1,1 @@
+This is a project to create a website using the tools learnt through the odin project so far
